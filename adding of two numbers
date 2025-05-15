@@ -1,0 +1,11 @@
+# Addition of Two Numbers
+
+This is a basic Python program that adds two numbers and prints the result.
+
+## Program
+
+```python
+# Addition of two numbers
+a = 10
+b = 20
+print("Addition of two numbers is", a + b)
