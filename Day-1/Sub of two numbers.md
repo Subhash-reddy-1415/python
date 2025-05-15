@@ -10,4 +10,3 @@ b = int(input("Enter b value = "))
 print("subtraction of two numbers is", a - b)
 
 ```
----
