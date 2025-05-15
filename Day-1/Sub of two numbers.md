@@ -8,3 +8,6 @@ This is a simple Python program that takes two numbers as input from the user, a
 a = int(input("Enter a value = "))
 b = int(input("Enter b value = "))
 print("subtraction of two numbers is", a - b)
+
+```
+---
